@@ -40,7 +40,7 @@ body{
 
 /*===========LANDING PAGE================*/
 .home-inner{
-  background-image: url("assets/pic5.jpg");
+  background-image: url("../assets/pic5.jpg");
 }
 .caption{
   width:100%;
@@ -129,7 +129,7 @@ h3.heading{
 
 /* ================PORTFOLIO================== */
 .fixed{
-  background-image:url("assets/AppDeveloperDesk.jpg");
+  background :url("../assets/AppDeveloperDesk.jpg");
   z-index:-1;
 }
 .dark{
