@@ -129,7 +129,7 @@ h3.heading{
 
 /* ================PORTFOLIO================== */
 .fixed{
-  background-image:url("F:/PORTFOLIO/assets/AppDeveloperDesk.jpg");
+  background-image:url("PORTFOLIO/assets/AppDeveloperDesk.jpg");
   z-index:-1;
 }
 .dark{
